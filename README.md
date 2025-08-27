@@ -11,7 +11,7 @@ This repository contains the implementation and configuration files for demonstr
 - ✅ Test autoscaling behavior under load spikes
 - ✅ Optimize cluster with Pause Pods for overprovisioning
 
-## 📋 Prerequisites
+## 📋 Prerequisites 
 
 - Google Cloud Platform account with billing enabled
 - `gcloud` CLI installed and configured
