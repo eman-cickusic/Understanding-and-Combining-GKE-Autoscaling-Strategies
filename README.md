@@ -2,7 +2,7 @@
 
 This repository contains the implementation and configuration files for demonstrating various Google Kubernetes Engine (GKE) autoscaling strategies including Horizontal Pod Autoscaling (HPA), Vertical Pod Autoscaling (VPA), Cluster Autoscaler, and Node Auto Provisioning.
 
-## 🎯 Lab Objectives
+## 🎯 Lab Objectives 
 
 - ✅ Decrease number of replicas with Horizontal Pod Autoscaler
 - ✅ Decrease CPU request with Vertical Pod Autoscaler  
